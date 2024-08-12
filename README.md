@@ -4,7 +4,7 @@
  
 ## Hello!😀 
 
-I'm an undergraduate student who is mainly learning knowledge and technologies related to aritificial intelligence.
+I'm an undergraduate student of electronic engineering who is mainly learning knowledge and technologies related to aritificial intelligence.
 <br>
 And I'm trying to learn other things too.🙂
 <br>
