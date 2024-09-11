@@ -2,7 +2,7 @@
 
 <br>  
  
-## Hello!😀 
+## Hello!
 
 I'm an undergraduate student of electronic engineering who is mainly learning knowledge and technologies related to aritificial intelligence.
 <br>
