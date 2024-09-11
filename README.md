@@ -8,6 +8,9 @@ I'm an undergraduate student of electronic engineering who is mainly learning kn
 <br>
 And I'm trying to learn other things too.🙂
 <br>
+You can view my CV by clicking the link below.
+<br> 
+[CV](https://github.com/aurorab86/aurorab86/blob/main/CV.pdf)
 <br> 
 <br>  
 
