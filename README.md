@@ -10,7 +10,7 @@ And I'm trying to learn other things too.🙂
 <br>
 You can view my CV by clicking the link below.
 <br> 
-[CV](https://github.com/aurorab86/aurorab86/blob/main/CV.pdf)
+[CV](https://github.com/aurorab86/aurorab86/blob/main/CV(Woo%20Hyun%20Song).pdf)
 <br> 
 <br>  
 
